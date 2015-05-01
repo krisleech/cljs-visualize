@@ -1,0 +1,6 @@
+{
+  "name": "visualize",
+  "root": "resources/public",
+  "clean_urls": true,
+  "error_page": "resources/public/error.html"
+}

@@ -32,3 +32,18 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.todo {
+
+}
+
+.todo .name {
+  font-size: 1.2em;
+}
+
+.todo .done {
+  font-size: 0.9em;
+  transform: scale(2,2);
+  margin-right: 15px;
+}
+.state-editor { padding: 4px; margin-top: 20px; font-size: 1.2em; }
